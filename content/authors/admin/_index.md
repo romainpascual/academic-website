@@ -4,9 +4,9 @@ avatar_filename: photo_seminaire.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theoretical Computer Science
+  - Computer Graphics
+  - Topology-based Geometric Modeling
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,7 +19,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/romainpascual
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -43,8 +43,9 @@ title: Romain Pascual
 email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Ph.D. student in the [Logimics](http://logimics.mics.centralesupelec.fr/)centr team of the [MICS](http://www.mics.centralesupelec.fr/) laboratory at [CentraleSupélec](https://www.centralesupelec.fr/), [University Paris-Saclay](https://www.universite-paris-saclay.fr/en) (France). 
+I am working under the supervision of [Pascale Le Gall](https://research.centralesupelec.fr/pascale.legall/) and in collaboration with [Hakim Belhaouri](http://xlim-sic.labo.univ-poitiers.fr/membres/hbelhaou/?lang=en) and [Agnès Arnould](http://xlim-sic.labo.univ-poitiers.fr/arnould/?lang=en) from the [XLIM UMR CNRS 7252](https://www.xlim.fr/en) laboratory. My work focuses on providing help for the conception of operations in topology-based geometric modeling using the Jerboa platform ([http://xlim-sic.labo.univ-poitiers.fr/jerboa/](http://xlim-sic.labo.univ-poitiers.fr/jerboa/)):
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- [Theoretical background and references](http://xlim-sic.labo.univ-poitiers.fr/jerboa/features.html)
+- [Download links](http://xlim-sic.labo.univ-poitiers.fr/jerboa/download.html)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
