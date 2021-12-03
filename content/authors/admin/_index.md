@@ -30,10 +30,10 @@ education:
   courses:
     - course: MSc in Engineering
       institution: CentraleSupélec
-      year: 2011
+      year: 2019
     - course: MSc in Fundamental Computer Science (AFP, ex-MPRI)
       institution: " ENS Paris-Saclay"
-      year: 2016
+      year: 2021
 superuser: true
 highlight_name: true
 title: Romain Pascual
