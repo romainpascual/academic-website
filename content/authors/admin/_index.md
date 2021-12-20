@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: photo_seminaire.jpg
+avatar_filename: assets/media/photo_seminaire_squared.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
