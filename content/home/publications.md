@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Publications
 weight: 90
-title: ""
+title: Publications
 subtitle: ""
 active: true
 content:
@@ -20,4 +20,3 @@ headless: true
 design:
   view: 4
 ---
-Romain Pascual, Pascale Le Gall, Agnès Arnould, Hakim Belhaouari (2022). Topological consistency preservation with graph transformation schemes. Science of Computer Programming
