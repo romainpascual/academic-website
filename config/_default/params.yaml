@@ -20,16 +20,16 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: romain.pascual@centralesupelec.fr
+#email: romain.pascual@centralesupelec.fr
 address:
   street: Laboratoire MICS, Bâtiment Bouygues, 9 rue Joliot Curie
   city: Gif-sur-Yvette Cedex
   postcode: '91192'
   country: France
   country_code: Fr
-#coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
+coordinates:
+  latitude: '48.709476217410085'
+  longitude: '2.1668610739806997'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
