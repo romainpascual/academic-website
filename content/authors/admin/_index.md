@@ -11,9 +11,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-1282-1933  
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.uni-trier.de/pid/308/6547.html
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=NR2fK58AAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Romain-Pascual
   - icon: github
     icon_pack: fab
     link: https://github.com/romainpascual
