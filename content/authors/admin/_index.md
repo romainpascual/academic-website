@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: photo_seminaire.jpg
+avatar_filename: assets/media/photo_seminaire_squared.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -11,18 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=NR2fK58AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/romainpascual
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: MICS, CentraleSupelec, University Paris-Saclay
     url: http://www.mics.centralesupelec.fr/
