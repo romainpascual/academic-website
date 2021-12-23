@@ -44,8 +44,8 @@ address:
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates:
-  latitude: '48.709476'
-  longitude: '2.166861'
+  latitude: 48.709476
+  longitude: 2.166861
 
 # Site header
 
@@ -133,7 +133,21 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 2
+  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
+  # and choose a map provider below.
+  #
+  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `engine` to 2.
+  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  engine: 2
   api_key: ''
   zoom: 15
 marketing:
