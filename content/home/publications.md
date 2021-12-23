@@ -35,6 +35,4 @@ design:
   view: 4
 ---
 
-# {{% callout note %}}
-# Search for specific publications with the [filtering tool](./publication/).
-# {{% /callout %}}
+Search for specific publications with the [filtering tool](./publication/).
