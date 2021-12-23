@@ -45,7 +45,3 @@ url_code: ""
 doi: https://doi.org/10.1016/j.scico.2021.102728
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
