@@ -35,4 +35,4 @@ design:
   view: 4
 ---
 
-Search for specific publications with the [filtering tool](./publication/).
+Search for specific publications by [filtering](./publication/).
