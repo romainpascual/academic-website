@@ -1,73 +1,53 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+abstract: In the first part of the talk, I will present generalized maps that
+  represent quasi-manifolds through their subdivision into topological cells
+  (vertices,edges, faces, volumes). We defined generalized maps as constrained
+  labeled graphs. Arc labels encode topological relations of the subparts of the
+  modeled object, while node labels describe the geometric data used to
+  represent the object. Modeling operations are designed regardless of the
+  object’s underlying topology. Therefore, we generalize DPO rules with a
+  functorial approach to encode semi-global relabeling with a product operation.
+  Rules and their extensions (called rule schemes) are considered valid if any
+  application to a well-formed graph results in an equally well-formed graph. We
+  provide set-theoric conditions on rules and rule schemes to ensure the
+  preservation of the model consistency. In the second part of the talk, I will
+  present how this approach allows the design of geometric modelers (software
+  used to create and edit geometric objects) in Jerboa. The set-theoric
+  conditions can be checked via graph traversal in Jerboa’s rule editor to
+  ensure that the code derived from the rule will never break the model. The
+  generated code can be used as an add-on in other software or Jerboa’s generic
+  viewer.
+slides: ""
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+date_end: 2021-09-24T14:00:00.000Z
+event_url: https://www.irif.fr/~greta/event/2021-sep-24/
+authors:
+  - admin
+  - HakimBelhaouri
+url_video: ""
+date: 2021-09-24T13:00:00.000Z
+featured: false
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+title: "Combinatorial maps: transformations and application to geometric modeling"
+location: Online
+links: []
+event: GReTA Seminar
+publishDate: 2017-01-01T00:00:00Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ""
   focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- example
+all_day: false
 ---
+**Tool presentation** by [Hakim Belhaouari (Laboratoire XLIM UMR CNRS 7252, Université de Poitiers)](http://xlim-sic.labo.univ-poitiers.fr/membres/hbelhaou/index.php).
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+{{< youtube woA2W-05fLQ >}}
