@@ -6,7 +6,7 @@ title: Talks
 subtitle: null
 active: true
 content:
-  page_type: talk
+  page_type: event
   count: 5
   filters:
     author: ""

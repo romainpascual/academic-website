@@ -12,6 +12,7 @@ widget_id: Publications
 title: Publications
 subtitle: ""
 
+
 active: true
 content:
   page_type: publication
@@ -34,6 +35,6 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Search for specific publications with the [filtering tool](./publication/).
-{{% /callout %}}
+# {{% callout note %}}
+# Search for specific publications with the [filtering tool](./publication/).
+# {{% /callout %}}
