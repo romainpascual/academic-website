@@ -36,7 +36,7 @@ title: Topological consistency preservation with graph transformation schemes
 tags: []
 projects: []
 image:
-  caption: ""
+  caption: "Summary of the process to transform a combinatorial graph with a rule scheme."
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00Z
