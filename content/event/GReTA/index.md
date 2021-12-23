@@ -19,22 +19,16 @@ abstract: In the first part of the talk, I will present generalized maps that
   viewer.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: GReTA Seminar
 date_end: 2021-09-24T14:00:00.000Z
 event_url: https://www.irif.fr/~greta/event/2021-sep-24/
 authors:
   - admin
-  - HakimBelhaouri
+  - Hakim Belhaouri
 url_video: ""
 date: 2021-09-24T13:00:00.000Z
 featured: false
-url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+url_slides: GReTA_slides.pdf
 title: "Combinatorial maps: transformations and application to geometric modeling"
 location: Online
 links: []
@@ -47,6 +41,7 @@ image:
   focal_point: Right
 url_code: ""
 all_day: false
+share: false
 ---
 **Tool presentation** by [Hakim Belhaouari (Laboratoire XLIM UMR CNRS 7252, Université de Poitiers)](http://xlim-sic.labo.univ-poitiers.fr/membres/hbelhaou/index.php).
 
