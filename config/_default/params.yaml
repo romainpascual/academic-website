@@ -39,9 +39,13 @@ address:
   postcode: '91192'
   country: France
   country_code: Fr
+  
+  
+# Geographic coordinates
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates:
-  latitude: '48.709476217410085'
-  longitude: '2.1668610739806997'
+  latitude: '48.709476'
+  longitude: '2.166861'
 
 # Site header
 
