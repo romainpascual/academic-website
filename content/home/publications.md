@@ -15,7 +15,8 @@ subtitle: ""
 active: true
 content:
   page_type: publication
-  count: 5
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
   offset: 0
   order: desc
   filters:
