@@ -20,13 +20,12 @@ abstract: In the first part of the talk, I will present generalized maps that
 slides: ""
 url_pdf: ""
 summary: GReTA Seminar
-date_end: 2021-09-24T14:00:00.000Z
 event_url: https://www.irif.fr/~greta/event/2021-sep-24/
 authors:
   - admin
   - Hakim Belhaouri
 url_video: ""
-date: 2021-09-24T13:00:00.000Z
+date: 2021-09-24T15:00:00.000Z
 featured: false
 url_slides: GReTA_slides.pdf
 title: "Combinatorial maps: transformations and application to geometric modeling"
