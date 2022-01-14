@@ -1,10 +1,10 @@
 ---
 role: PhD Student
 avatar_filename: assets/media/photo_seminaire_squared.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include applications of graph rewriting to computer graphics.
 interests:
   - Theoretical Computer Science
+  - Graph Transformations
   - Computer Graphics
   - Topology-based Geometric Modeling
 social:
@@ -17,6 +17,9 @@ social:
   - icon: dblp
     icon_pack: ai
     link: https://dblp.uni-trier.de/pid/308/6547.html
+  - icon: hal
+    icon_pack: ai
+    link: https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/romain-pascual
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=NR2fK58AAAAJ
@@ -26,6 +29,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/romainpascual
+  - icon: cv
+    icon_pack: fab
+    link: uploads/resume.pdf
 organizations:
   - name: MICS, CentraleSupelec, University Paris-Saclay
     url: http://www.mics.centralesupelec.fr/
