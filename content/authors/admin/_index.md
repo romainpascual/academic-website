@@ -30,8 +30,10 @@ social:
     icon_pack: fab
     link: https://github.com/romainpascual
   - icon: cv
-    icon_pack: fab
+    icon_pack: ai
     link: uploads/resume.pdf
+
+
 organizations:
   - name: MICS, CentraleSupelec, University Paris-Saclay
     url: http://www.mics.centralesupelec.fr/
