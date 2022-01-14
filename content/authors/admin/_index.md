@@ -42,7 +42,7 @@ education:
       year: 2019
     - course: MSc in Fundamental Computer Science (AFP, ex-MPRI)
       institution: " ENS Paris-Saclay"
-      year: 2021
+      year: 2018
 superuser: true
 highlight_name: true
 title: Romain Pascual
