@@ -1,5 +1,5 @@
 ---
-abstract: The Graduate School SIS and the Ecole Doctorale Interfaces offer the "Défi6" training module to help PhD students prepare a popularized presentation of their thesis in 6 minutes. The training is provided by Agent Majeur, a scientific communication agency. Event organized in French.
+abstract: The Graduate School SIS and the Ecole Doctorale Interfaces offer the "Défi6" training module to help PhD students prepare a popularized presentation of their thesis in 6 minutes. The training is provided by [Agent Majeur](https://agentmajeur.fr/), a scientific communication agency. Event organized in French.
 slides: ""
 url_pdf: ""
 summary: Defi6
