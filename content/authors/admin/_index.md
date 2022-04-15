@@ -43,7 +43,7 @@ education:
       institution: CentraleSupélec
       year: 2019
     - course: MSc in Fundamental Computer Science (AFP, ex-MPRI)
-      institution: " ENS Paris-Saclay"
+      institution: "ENS Paris-Saclay"
       year: 2018
 superuser: true
 highlight_name: true
@@ -51,7 +51,7 @@ title: Romain Pascual
 email: ""
 ---
 
-I am currently a Ph.D. student in the [Logimics](http://logimics.mics.centralesupelec.fr/) team of the [MICS](http://www.mics.centralesupelec.fr/) laboratory at [CentraleSupélec](https://www.centralesupelec.fr/), [University Paris-Saclay](https://www.universite-paris-saclay.fr/en) (France). 
+I am currently a Ph.D. student in the [Logimics](http://logimics.mics.centralesupelec.fr/) team of the [MICS](http://www.mics.centralesupelec.fr/) laboratory at [CentraleSupélec](https://www.centralesupelec.fr/), [University Paris-Saclay](https://www.universite-paris-saclay.fr/en) (France).
 I am working under the supervision of [Pascale Le Gall](https://research.centralesupelec.fr/pascale.legall/) and in collaboration with [Hakim Belhaouri](http://xlim-sic.labo.univ-poitiers.fr/membres/hbelhaou/?lang=en) and [Agnès Arnould](http://xlim-sic.labo.univ-poitiers.fr/arnould/?lang=en) from the [XLIM UMR CNRS 7252](https://www.xlim.fr/en) laboratory. My work focuses on providing help for the conception of operations in topology-based geometric modeling using the Jerboa platform ([http://xlim-sic.labo.univ-poitiers.fr/jerboa/](http://xlim-sic.labo.univ-poitiers.fr/jerboa/)):
 
 - [Theoretical background and references](http://xlim-sic.labo.univ-poitiers.fr/jerboa/features.html)
