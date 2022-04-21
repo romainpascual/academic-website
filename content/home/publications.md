@@ -6,7 +6,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
 widget_id: Publications
 title: Publications

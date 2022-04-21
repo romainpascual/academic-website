@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: Talks
-weight: 70
+weight: 30
 title: Talks
 subtitle: null
 active: true
