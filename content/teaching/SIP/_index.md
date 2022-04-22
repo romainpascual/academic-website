@@ -1,7 +1,7 @@
 ---
 title: Information Systems and Programming
 summary: The course is composed of two main parts, Information Systems and Programming, the second focusing on the Python language.
-#date: "2019-09-01T00:00:00Z"
+date: "2019-09-01T00:00:00Z"
 ---
 
 The SIP course is intended to educate future engineers to understand and master the IT tools and information systems they will be confronted with in their career, as well as build their skills to properly design and write code. The course is composed of two main parts, Information Systems and Programming, the second focusing on the Python language.
