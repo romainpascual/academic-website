@@ -34,5 +34,3 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-
-Teaching at CentraleSupélec during my PhD.
