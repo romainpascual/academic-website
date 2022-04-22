@@ -1,35 +1,20 @@
 ---
 title: Algorithmic and Complexity
 summary: The goal of this course is to introduce computer science methods for engineering problem solving.
-
-abstract: ""
-slides: ""
-url_pdf: ""
-summary: ""
-authors: ""
-url_video: ""
-date: "School years 2020-2021 and 2021-2022"
-featured: false
-publishDate: 2017-01-01T00:00:00Z
-location: ""
-links: []
-tags: []
-projects: []
-image:
-  caption: ""
-  focal_point: Right
-url_code: ""
+date: "2021"
 ---
 
 The goal of this course is to introduce computer science methods for engineering problem solving. It presents different problem families using theoretical models. It shows how to solve these problems using exact or approximation algorithms. We question the existence of a solution and we take great care to the quality of the computed solution. We study the complexity of the problems as well as the complexity of the resolution algorithms.
 
 Click [here](https://wdi.centralesupelec.fr/1CC2000/) to access the course website.
 
-*Teaching time performed*: 42 hours of tutorials
+**Teaching time performed**: 42 hours of tutorials.
 
-*Instructors*: [Safouan TAHA](https://www.lri.fr/membre.php?mb=2034)
+Part of the teaching team for the school years 2020-2021 and 2021-2022.
 
-*Student level*: First year (~BSCS)
+**Instructors**: [Safouan TAHA](https://www.lri.fr/membre.php?mb=2034).
+
+**Student level**: First year (~BSCS).
 
 Syllabus
 
