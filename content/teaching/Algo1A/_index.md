@@ -1,6 +1,7 @@
 ---
 title: Algorithmic and Complexity
 summary: The goal of this course is to introduce computer science methods for engineering problem solving.
+date: "2021-11-01T00:00:00Z"
 #date: "2021-11-01T00:00:00Z"
 ---
 
