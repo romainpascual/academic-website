@@ -1,7 +1,7 @@
 ---
 title: Algorithmic and Complexity
 summary: The goal of this course is to introduce computer science methods for engineering problem solving.
-date: "2021"
+date: "2021-11-01T00:00:00Z"
 ---
 
 The goal of this course is to introduce computer science methods for engineering problem solving. It presents different problem families using theoretical models. It shows how to solve these problems using exact or approximation algorithms. We question the existence of a solution and we take great care to the quality of the computed solution. We study the complexity of the problems as well as the complexity of the resolution algorithms.

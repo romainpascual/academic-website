@@ -1,7 +1,7 @@
 ---
 title: Logic modeling and formal systems
 summary: Presentation of the fundamental principles and formal tools at the basis of all methods of design, verification and implementation of computer systems.
-date: "School year 2021-2022"
+date: "2022-09-01T00:00:00Z"
 ---
 
 Presentation of the fundamental principles and formal tools at the basis of all methods of design, verification and implementation of computer systems. Thus, the fundamental notions of mathematical logic and automatic demonstration at the basis of all these techniques of modeling and verification of computer systems are addressed. Classical logic formalisms such as propositional logic and first order logic, but also non-classical logic formalisms such as modal logic (widely used for multi-agent systems and data representation) are presented.

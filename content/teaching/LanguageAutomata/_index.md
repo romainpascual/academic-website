@@ -1,7 +1,7 @@
 ---
 title: Language and Automata
 summary: The course introduces the main classes of languages and their related automata. 
-date: "2022"
+date: "2022-09-01T00:00:00Z"
 ---
 
 Formal languages exploit sets of words and are involved in many fields of computer science such as text processing, programming languages, theoretical computer science, or complexity theory. The course introduces the main classes of languages to which different models are associated (finite automata, grammars, Turing machines).
