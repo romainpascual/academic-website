@@ -20,5 +20,5 @@ content:
   order: desc
 headless: true
 design:
-  view: 1
+  view: 2
 ---
