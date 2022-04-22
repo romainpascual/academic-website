@@ -1,7 +1,7 @@
 ---
 title: Coding Weeks
 summary: The coding weeks are a mini programming boot camp.
-date: "2020-10-01T00:00:00Z"
+#date: "2020-10-01T00:00:00Z"
 ---
 
 The coding weeks are a mini programming boot camp which aims, through the realization of computer development projects, to allow students to consolidate their knowledge in programming and development of computer applications on the one hand and on the other hand to learn about the practices and methodologies of computer development in groups. This activity also allows students to learn and acquire, mainly through practice, the fundamentals of the culture of quality of computer code ("software craftsmanship").
