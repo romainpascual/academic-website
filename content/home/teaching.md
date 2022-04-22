@@ -1,12 +1,12 @@
 ---
 widget: pages
-widget_id: PhDTeaching
-weight: 30
-title: "PhD Teaching"
+widget_id: Teaching
+weight: 50
+title: "Teaching"
 subtitle: null
 active: true
 content:
-  page_type: phdteaching
+  page_type: teaching
   count: 5
   filters:
     author: ""
