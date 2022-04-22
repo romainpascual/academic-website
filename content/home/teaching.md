@@ -9,10 +9,13 @@ subtitle: ""
 active: true
 content:
   page_type: teaching
+  # Choose how many pages you would like to display (0 = all pages)
   count: 0
   offset: 0
   order: desc
   filters:
+    folders:
+      - teaching
     tag: ""
     category: ""
     publication_type: ""
