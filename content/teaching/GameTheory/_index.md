@@ -2,6 +2,8 @@
 title: Computational approach to games
 
 summary: Game theory is the formal study of the interactions between rational agents defined by the objectives they seek to achieve and by their strategic options. 
+
+type: teaching
 ---
 
 *Teaching time performed:* 9 hours of practical classes about solving puzzles modeled as Constraint Satisfaction Problems and the implementation of both Minimax algorithm with alpha-beta pruning to play [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)

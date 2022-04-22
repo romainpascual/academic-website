@@ -2,6 +2,8 @@
 title: [Language and Automata](https://centralesupelec.edunao.com/course/view.php?id=3925)
 
 summary: Formal languages exploit sets of words and are involved in many fields of computer science such as text processing, programming languages, theoretical computer science, or complexity theory. The course introduces the main classes of languages to which different models are associated (finite automata, grammars, Turing machines). 
+
+type: teaching
 ---
 
 *Teaching time performed:* 5 hours of tutorials, 5 hours of lectures and 3 hours of practical classes around abstract syntax trees in Python.

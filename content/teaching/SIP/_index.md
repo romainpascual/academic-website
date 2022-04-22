@@ -2,6 +2,8 @@
 title: [Information Systems and Programming](https://centralesupelec.edunao.com/course/view.php?id=3447)
 
 summary: The SIP course is intended to educate future engineers to understand and master the IT tools and information systems they will be confronted with in their career, as well as build their skills to properly design and write code. The course is composed of two main parts, Information Systems and Programming, the second focusing on the Python language.
+
+type: teaching
 ---
 
 *Teaching time performed:* 25.5 hours of tutorials

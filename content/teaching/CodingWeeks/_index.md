@@ -2,6 +2,8 @@
 title: [Coding Weeks](https://centralesupelec.edunao.com/course/index.php?categoryid=51)
 
 summary: The coding weeks are a mini programming boot camp which aims, through the realization of computer development projects, to allow students to consolidate their knowledge in programming and development of computer applications on the one hand and on the other hand to learn about the practices and methodologies of computer development in groups. This activity will also allow students to learn and acquire, mainly through practice (some contributions will be the subject of a conference), the fundamentals of the culture of quality of computer code ("software craftsmanship").
+
+type: teaching
 ---
 
 *Teaching time performed:* 78 hours (once on the project "Gamejam" and once on the project "Open source code and learning games for coding")

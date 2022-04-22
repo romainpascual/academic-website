@@ -2,6 +2,8 @@
 title: [Theoretical Computer Science](https://centralesupelec.edunao.com/course/view.php?id=4697)
 
 summary: This teaching gives a part of the fundamentals of computer science on its two paradigms of computation, which are reduction (calculation step by step) and resolution (logical inference / automatic reasoning)
+
+type: teaching
 ---
 
 *Teaching time performed:* 6 hours of tutorials and 3 hours of practical classes in Coq

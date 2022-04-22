@@ -2,6 +2,8 @@
 title: [Algorithmic and Complexity](https://wdi.centralesupelec.fr/1CC2000/)
 
 summary: The goal of this course is to introduce computer science methods for engineering problem solving. It presents different problem families using theoretical models. It shows how to solve these problems using exact or approximation algorithms. We question the existence of a solution and we take great care to the quality of the computed solution. We study the complexity of the problems as well as the complexity of the resolution algorithms.
+
+type: teaching
 ---
 
 *Teaching time performed:* 42 hours of tutorials
