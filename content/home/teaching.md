@@ -1,27 +1,15 @@
 ---
 widget: pages
 widget_id: Teaching
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
 weight: 50
-
-# Section title
 title: Teaching activities
 subtitle: null
-
-
-# Section design
 design:
-  # Use a 1-column layout
   columns: "1"
 
 active: true
 content:
   page_type: teaching
-  # Choose how many pages you would like to display (0 = all pages)
   count: 0
   offset: 0
   order: desc
