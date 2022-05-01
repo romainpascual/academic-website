@@ -36,6 +36,4 @@ share: true
 
 **Metadata from Eurographics 2022** can be retrieved [here](https://diglib.eg.org/handle/10.2312/egp20221005).
 
-Poster in [PDF](poster.pdf).
-
 {{< youtube d1m507ItbYE >}}
