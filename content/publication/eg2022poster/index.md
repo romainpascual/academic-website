@@ -1,7 +1,7 @@
 ---
 abstract: Procedural modeling enables building complex geometric objects and scenes in a wide panel of applications. The traditional approach relies on the sequential application of a reduced set of construction rules. We offer to automatically generate new topological rules based on an initial object and the expected result of the future operation. Non-expert users can thereby develop their own operations. We exploited our approach for the modeling of the geological subsoil.
 slides: ""
-url_pdf: ""
+url_pdf: "poster.pdf"
 publication_types:
   - "0"
 authors:
@@ -35,5 +35,7 @@ share: true
 ---
 
 **Metadata from Eurographics 2022** can be retrieved [here](https://diglib.eg.org/handle/10.2312/egp20221005).
+
+Poster in [PDF](poster.pdf).
 
 {{< youtube d1m507ItbYE >}}
