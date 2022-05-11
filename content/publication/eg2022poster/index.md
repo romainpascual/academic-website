@@ -30,7 +30,7 @@ image:
 publishDate: 2017-01-01T00:00:00Z
 url_poster: "poster.pdf"
 url_code: ""
-doi: ""
+doi: https://dx.doi.org/10.2312/egp.20221005
 share: true
 ---
 
