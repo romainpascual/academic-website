@@ -1,5 +1,6 @@
 ---
-abstract: La construction d'opérations de modélisation géométriques est une tâche souvent longue et fastidieuse.
+abstract: >-
+La construction d'opérations de modélisation géométriques est une tâche souvent longue et fastidieuse.
 Même si l'implémentation d'une opération peut s'avérer difficile, il est en revanche relativement simple de l'intuiter à partir d'un objet de départ et de l'objet cible, si ces deux derniers sont donnés.
 
 On propose donc une méthode d'inférence d'opérations à partir d'un exemple représentatif.
