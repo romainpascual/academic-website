@@ -29,4 +29,4 @@ share: false
 ---
 French event.
 
-{{< https://youtu.be/6UGjgTc6nX0 >}}
+{{< youtube 6UGjgTc6nX0 >}}
