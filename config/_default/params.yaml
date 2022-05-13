@@ -131,7 +131,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: false
+    show_logo: true
 map:
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
@@ -147,7 +147,7 @@ map:
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  provider: '2'
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 marketing:
