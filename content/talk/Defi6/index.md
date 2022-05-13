@@ -11,9 +11,9 @@ date: 2021-12-06T15:00:00.000Z
 featured: false
 url_slides: Defi6_slides.pdf
 title: "Des outils de modélisation sur mesure"
-location: Online
+location: "Online"
 links: []
-event: Journée de l'ED Interfaces
+event: "Journée de l'ED Interfaces"
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects: []

@@ -29,9 +29,9 @@ date: 2021-09-24T15:00:00.000Z
 featured: false
 url_slides: GReTA_slides.pdf
 title: "Combinatorial maps: transformations and application to geometric modeling"
-location: Online
+location: "Online"
 links: []
-event: GReTA Seminar
+event: "GReTA Seminar"
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects: []
