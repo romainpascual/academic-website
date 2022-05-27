@@ -1,6 +1,6 @@
 ---
 title: Theoretical Computer Science
-summary: This course presents some of the fundamentals of computer science on its two paradigms of computation, namely reduction (calculation step by step) and resolution (logical inference / automatic reasoning
+summary: This course presents some of the fundamentals of computer science on its two paradigms of computation, namely reduction (calculation step by step) and resolution (logical inference / automatic reasoning).
 date: "2022-04-01T00:00:00Z"
 ---
 
