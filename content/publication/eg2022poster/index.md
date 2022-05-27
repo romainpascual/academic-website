@@ -36,4 +36,6 @@ share: true
 
 **Metadata from Eurographics 2022** can be retrieved [here](https://diglib.eg.org/handle/10.2312/egp20221005).
 
+More information is available on [Jerboa's website](http://xlim-sic.labo.univ-poitiers.fr/jerboa/doc/inference-of-topological-operations-illustration-in-geology/)
+
 {{< youtube d1m507ItbYE >}}
