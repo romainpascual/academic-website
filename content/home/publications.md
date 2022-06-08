@@ -6,10 +6,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 widget_id: Publications
-title: Publications
+title: Recent Publications
 subtitle: ""
 
 
@@ -17,7 +17,7 @@ active: true
 content:
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 10
   offset: 0
   order: desc
   filters:
@@ -32,7 +32,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 4
 ---
 
-Search for specific publications by [filtering](./publication/).
+Search for a [specific publications](./publication/).

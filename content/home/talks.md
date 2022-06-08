@@ -1,8 +1,8 @@
 ---
 widget: pages
 widget_id: Talks
-weight: 30
-title: Talks
+weight: 40
+title: Recent Talks
 subtitle: null
 active: true
 content:
@@ -27,3 +27,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+Search for a [specific talk](./talks/).
