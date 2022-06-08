@@ -28,4 +28,4 @@ design:
   view: 2
 ---
 
-Search for a [specific talk](./talks/).
+Search for a [specific talk](./talk/).
