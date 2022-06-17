@@ -28,6 +28,8 @@ share: false
 
 Seminar of the team [Informatique Graphique](https://www.xlim.fr/recherche/pole-mathematiques-informatique-image/synthese-analyse-dimages/ig) from the [XLIM laboratory](xlim-sic.labo.univ-poitiers.fr/) in Poitiers.
 
+The topological part refer to the publication: {{< cite page="/publication/gvc2022inference" view="4" >}}
+
 Demo missing in the slides:
 
 {{< youtube eI31_W1xF0I >}}

@@ -27,5 +27,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
-Search for a [specific talk](./talk/).
