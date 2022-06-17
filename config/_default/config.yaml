@@ -5,7 +5,7 @@
 
 title: Romain Pascual # Website name
 baseurl: 'romainpascual.fr' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 Romain Pascual' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
