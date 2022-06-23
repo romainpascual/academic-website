@@ -19,7 +19,3 @@ title: About me
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
-
-Welcome on my academic webpage!
-
-I am currently looking for postdoc opportunities, starting from January 2023.
